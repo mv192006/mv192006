@@ -7,10 +7,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/SDE-Full--Stack%20Developer-e85d3a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20MERN%20%7C%20Java-101214?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20MERN%20%7C%20Java%20%7C%20C%2B%2B-101214?style=for-the-badge" />
 </p>
 
-Building AI-powered applications, scalable backend systems, and modern web platforms using **Java**, the **MERN Stack**, and **Machine Learning**.
+Building AI-powered applications, scalable backend systems, and modern web platforms using **Java**, the **MERN Stack**, **C++**, and **Machine Learning**.
 
 <p>
   <a href="mailto:mukulvarade@gmail.com"><img src="https://img.shields.io/badge/Email-mukulvarade%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -28,9 +28,9 @@ Building AI-powered applications, scalable backend systems, and modern web platf
 
 - 🎓 B.Tech in **Electronics & Telecommunication Engineering** at MIT Academy of Engineering, Pune
 - 💻 Software Development Engineer & Full-Stack Developer
-- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **System Design**
+- 🤖 Interested in **Artificial Intelligence**, **Machine Learning**, **Systems Programming**, and **System Design**
 - 🏆 Solved **225+** Data Structures & Algorithms problems on LeetCode
-- 🔨 Built AI-powered full-stack applications with **MERN Stack** and **Generative AI**
+- 🔨 Built AI-powered apps, a vector database from scratch, and a multi-threaded DPI engine in C++
 - 📈 Continuously learning, building, and improving software solutions
 
 <br>
@@ -66,39 +66,40 @@ Building AI-powered applications, scalable backend systems, and modern web platf
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
-**Databases**
+**Databases & Systems**
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/HNSW%20VectorDB-6C3483?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**AI &amp; Machine Learning**
+**AI & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-e85d3a?style=flat-square" />
-<img src="https://img.shields.io/badge/Recommendation%20Systems-555555?style=flat-square" />
-<img src="https://img.shields.io/badge/Predictive%20Analytics-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG%20Pipeline-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama%20LLM-000000?style=flat-square" />
 
 </td>
 <td valign="top" width="50%">
 
-**Tools**
+**Tools & Systems**
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Multithreading-C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 
 </td>
 </tr>
@@ -112,32 +113,61 @@ Building AI-powered applications, scalable backend systems, and modern web platf
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [AI-Powered Campus Placement Portal](https://github.com/mv192006/Campus-Placement-Portal)
+### 🔍 [DPI Engine — Deep Packet Inspection System](https://github.com/mv192006/dpi-engine)
 
-A full-stack, role-based placement platform for Students, Recruiters, and Placement Officers, featuring AI Resume Analysis, Smart Job Matching, Candidate Ranking, Placement Prediction, and AI Mock Interviews with automated feedback.
+A **multi-threaded Deep Packet Inspection engine** in C++ that processes PCAP captures, extracts TLS SNI from encrypted HTTPS traffic, classifies applications (YouTube, Facebook, etc.), and blocks traffic based on rules — with a **single-threaded** and a **parallel load-balancer + fast-path** architecture.
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+**How it works:**
+```
+PCAP Input → Reader Thread
+           → Load Balancer Threads (hash by 5-tuple)
+           → Fast Path Threads (SNI extraction + blocking)
+           → Output PCAP
+```
 
-[![Repo](https://img.shields.io/badge/View%20Repository-e85d3a?style=flat-square&logo=github&logoColor=white)](https://github.com/mv192006/Campus-Placement-Portal)
+**Key features:**
+- 🔐 Extracts domain names from **encrypted TLS Client Hello** (SNI)
+- 🚦 Flow-based blocking by IP, app type, or domain pattern
+- ⚡ Multi-threaded pipeline: Reader → LB → FP → Writer
+- 📊 Full traffic report with per-app breakdown
+
+<img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Multithreading-pthread-grey?style=flat-square" />
+<img src="https://img.shields.io/badge/PCAP-Network%20Analysis-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/TLS%20SNI-Extraction-green?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP%2FIP-Protocol%20Parsing-orange?style=flat-square" />
+
+[![Repo](https://img.shields.io/badge/View%20Repository-e85d3a?style=flat-square&logo=github&logoColor=white)](https://github.com/mv192006/dpi-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 [FinGenius AI — Personal Finance &amp; Investment Advisor](https://github.com/mv192006/FinGenius-AI)
+### 🧠 [VectorDB — Vector Database from Scratch in C++](https://github.com/mv192006/VectorDB)
 
-An AI-powered personal finance and investment platform with expense analytics, savings forecasting, fraud detection, financial health scoring, and intelligent investment recommendations.
+A **fully working Vector Database** built from scratch in C++ with a web UI — implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side, plus a **RAG pipeline** powered by a local LLM via Ollama. The same algorithm used by Pinecone, Weaviate, and Chroma — built from the ground up.
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+**How it works:**
+```
+Text → Ollama (nomic-embed-text) → 768D Vector
+     → HNSW Index (C++)          → Semantic Search
+     → Retrieved Chunks          → llama3.2 LLM
+     → Answer
+```
 
-[![Repo](https://img.shields.io/badge/View%20Repository-e85d3a?style=flat-square&logo=github&logoColor=white)](https://github.com/mv192006/FinGenius-AI)
+**Key features:**
+- 📐 3 search algorithms: **HNSW** (O(log N)), **KD-Tree**, **Brute Force**
+- 📏 3 distance metrics: Cosine, Euclidean, Manhattan
+- 🗺️ Live **2D PCA scatter plot** of semantic vector space
+- 🤖 **RAG pipeline**: embed docs → retrieve → LLM answers
+- 🌐 Full **REST API** + browser UI (single `.cpp` + `.html`)
+
+<img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HNSW-Vector%20Index-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Pipeline-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-HTTP%20Server-blue?style=flat-square" />
+
+[![Repo](https://img.shields.io/badge/View%20Repository-e85d3a?style=flat-square&logo=github&logoColor=white)](https://github.com/mv192006/VectorDB)
 
 </td>
 </tr>
@@ -177,7 +207,7 @@ An AI-powered personal finance and investment platform with expense analytics, s
 | 🏅 Software Engineer Intern | HackerRank |
 | 🏅 SQL (Basic) | HackerRank |
 | 🛡️ Cybersecurity Essentials | Cisco Networking Academy |
-| 📊 Data Science &amp; Analytics | HP LIFE |
+| 📊 Data Science & Analytics | HP LIFE |
 
 <br>
 
